@@ -2,4 +2,5 @@ data/
 .vscode/
 .venv/
 __pycache__/
+*.md
 
